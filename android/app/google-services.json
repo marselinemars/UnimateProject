@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810345803409",
+    "project_id": "unimate-310a2",
+    "storage_bucket": "unimate-310a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810345803409:android:983cb830b193c8b3b75930",
+        "android_client_info": {
+          "package_name": "com.example.unimate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zhHZiTFMzxl0geVD-V9PaLZpkoWlsC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
